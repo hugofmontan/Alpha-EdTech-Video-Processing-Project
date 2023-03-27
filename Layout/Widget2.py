@@ -14,11 +14,11 @@ class widget2():
 
         #Caixas de preenchimento
         #Criando e setando os parâmetros do backgroud da plataforma
-        corpo = QLabel()
-        corpo.setObjectName('corpo')
-        corpo.setFixedSize(1280, 720)
-        corpo.setStyleSheet('background-color: darkgray;')
-        layout2.addWidget(corpo, 0, 0, 720, 1280)
+        corpo2 = QLabel()
+        corpo2.setObjectName('corpo')
+        corpo2.setFixedSize(1280, 720)
+        corpo2.setStyleSheet('background-color: darkgray;')
+        layout2.addWidget(corpo2, 0, 0, 720, 1280)
 
         #Caixas de preenchimento
         #Criando e setando paramêtros da caixa de notificação
