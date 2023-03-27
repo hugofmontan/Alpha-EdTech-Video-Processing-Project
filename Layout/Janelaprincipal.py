@@ -2,9 +2,9 @@ from PyQt6.QtWidgets import *
 from PyQt6.QtGui import *
 from PyQt6.QtCore import *
 from Tools import *
-from Widget1 import*
-from Widget2 import*
-from Widget3 import*
+from Tabs.Widget1 import*
+from Tabs.Widget2 import*
+from Tabs.Widget3 import*
 
 class MainWindow(QMainWindow):
 
